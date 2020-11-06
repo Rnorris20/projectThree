@@ -5,6 +5,7 @@ class Main {
 
   String[] {?}
 
-  for(int 1 = 15; i>= 0; i--)
+  for(int 1 = 15; i>= 0; i--);
+
   }
 }
