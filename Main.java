@@ -4,16 +4,6 @@ class Main {
 
   public static void main(String[] args) {
   
-  int  seatNumbers[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
-
-  
-
-for (int i = 0; i < students.length; i++)
-     {
-         System.out.println(students[i] );
-     }
-
-
 
         Scanner scan = new Scanner(System.in);
 
@@ -106,9 +96,17 @@ for (int i = 0; i < students.length; i++)
 //the final string array
     String students[] = {students1, students2, students3, students4, students5, students6, students7, students8, students9, students10, students11 ,students12, students13, students14, students15 };
 
-  for (int i = 0; i < students.length; i++);
-  {
-    System.out.println = (students[i] );
-  }
-  } 
+
+    int  seatNumbers[] = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15};
+// declaring the seat numbers
+    for(int a = 0; a < 1; a++){
+     
+        int count = 0;
+     //created the while loop that repeats the students names  
+          while(count <= 14) {
+            System.out.println(students[count] + " is going to sit in sit in seat # " + seatNumbers[count]);
+          count++;
+          }
+        }
 }
+} 
