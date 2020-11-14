@@ -19,92 +19,90 @@ for (int i = 0; i < students.length; i++)
 
           System.out.println("Hello 1st student, What is your name?");
 
-        scan.next();
+        String students1 = scan.next();
 // this is where the first scanner will end and the second will begin
 
-        Scanner scan = new Scanner(System.in);
 
           System.out.println("Hello 2nd student, What is your name?");
           
-        scan.next();
+        String students2 = scan.next();
 
-Scanner scan = new Scanner(System.in);
 
           System.out.println("Hello 3rd student, What is your name?");
           
-        scan.next();
+        String students3 = scan.next();
 
-Scanner scan = new Scanner(System.in);
 
           System.out.println("Hello 4th student, What is your name?");
           
-        scan.next();
+        String students4 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 5th student, What is your name?");
           
-        scan.next();
+        String students5 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 6th student, What is your name?");
           
-        scan.next();
+        String students6 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 7th student, What is your name?");
           
-        scan.next();
+        String students7 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
+
 
           System.out.println("Hello 8th student, What is your name?");
           
-        scan.next();
+        String students8 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 9th student, What is your name?");
           
-        scan.next();
+        String students9 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 10th student, What is your name?");
           
-        scan.next();
+        String students10 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 11th student, What is your name?");
           
-        scan.next();
+        String students11 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 12th student, What is your name?");
           
-        scan.next();
+        String students12 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 13th student, What is your name?");
           
-        scan.next();
+        String students13 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 14th student, What is your name?");
           
-        scan.next();
+        String students14 = scan.next();
 
-Scanner scan = new Scanner(System.in);
+
 
           System.out.println("Hello 15th student, What is your name?");
           
-        scan.next();
+        String students15 = scan.next();
 
 
   } 
